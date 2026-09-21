@@ -27,3 +27,6 @@ This README would normally document whatever steps are necessary to get your app
 
 * Repo owner or admin
 * Other community or team contact
+
+## Order Checkout Microservice - Sprint 42
+Feature implementation for payment checkout integration.
